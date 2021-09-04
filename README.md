@@ -1,4 +1,4 @@
-<img src=“https://thumbs.gfycat.com/KnobbyRepentantJumpingbean-max-1mb.gif”>
+<img src="https://thumbs.gfycat.com/KnobbyRepentantJumpingbean-max-1mb.gif" title="Hello" width="" alt="Hello" />
 
 - 👋 Hi, I’m @tructphan aka Truc Phan ("Choop Fahn")
 - 🌈 My pronouns are she/her/hers
