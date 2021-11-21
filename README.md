@@ -1,6 +1,6 @@
 <img src="https://thumbs.gfycat.com/KnobbyRepentantJumpingbean-max-1mb.gif" title="Hello" width="" alt="Hello" />
 
-- 👋 Hi, I’m @tructphan aka Truc Phan ("Choop Fahn")
+- 👋 Hi, I’m @tructphan aka Truc Phan ("Choop Fan")
 - 🌈 My pronouns are she/her/hers
 - 👀 I’m interested in full-stack development (web and mobile app)
 - 🌱 I’m currently learning several Javascript frameworks (Node, Express, React, etc.) and migrating my knowledge from UIKit to SwiftUI
