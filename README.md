@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @tructphan aka Truc Phan ("Choop Fan")
 - 🌈 My pronouns are she/her/hers
-- 👀 I’m interested in full-stack development (web and mobile app)
-- 🌱 I’m currently learning several Javascript frameworks (Node, Express, React, etc.) and migrating my knowledge from UIKit to SwiftUI
+- 👀 I’m interested in full-stack development
+- 🌱 I’m skilled in React and Node
 - 💞️ I’m looking to collaborate on and solve real-world problems in professional work environment
 - ‍💻 I have experience with Agile software development process and source control
 - 📫 How to reach me: 
