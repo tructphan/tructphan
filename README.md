@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/KnobbyRepentantJumpingbean-max-1mb.gif" title="Hello" width="" alt="Hello" />
+<img src="https://media.tenor.com/F2Yu8YbVV_MAAAAC/hello-cat.gif" title="Hello" width="" alt="Hello" />
 
 - 👋 Hi, I’m Truc
 - 🌈 My pronouns are she/her/hers
